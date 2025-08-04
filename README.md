@@ -28,7 +28,7 @@ A fun and interactive Streamlit quiz app to find out which Bollywood celebrity b
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iqra-khan740/bollywood-celebrity-quiz.git
+git clone https://github.com/iqra-khan740/which-celebrity-are-you.git
 cd bollywood-celebrity-quiz
 ```
 
